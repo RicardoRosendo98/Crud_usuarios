@@ -39,3 +39,30 @@ Install project dependencies by running:
 ```
 npm install
 ```
+
+## Tela de Login
+![Tela login](https://github.com/user-attachments/assets/f8255805-1b8e-47b7-9974-cd9c9f07930f)
+
+
+## Tela Hoome
+![Tela Home](https://github.com/user-attachments/assets/fd7f6d24-c90f-4945-9a92-f85fb1ef9914)
+
+
+## Tela Cadastro usuários
+![Cadastrando usuarios](https://github.com/user-attachments/assets/43f714da-a3f3-4124-acbc-70a04e501e03)
+
+
+
+## Tela Hoome visualizar
+![tela de visualizar](https://github.com/user-attachments/assets/146f4239-d11b-46f7-b1ea-842f164ad72c)
+
+
+
+## Tela edição
+![tela de edição](https://github.com/user-attachments/assets/5b14c91f-6f2b-4bd7-8095-0cf749e0a447)
+
+
+
+## Deletar
+![tela de exclusão](https://github.com/user-attachments/assets/448253d1-3132-427b-8155-edaee1c9b404)
+
